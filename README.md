@@ -1,6 +1,6 @@
 # KNotes
-[化学式笔记](https://knotes.tech/化学式笔记.pdf)  
-[化学式练习](https://knotes.tech/化学式练习.pdf)
+[化学式笔记 2022/5/15](https://knotes.tech/化学式笔记.pdf)  
+[化学式练习 2022/5/15](https://knotes.tech/化学式练习.pdf)
 
 #### 警告
 相关内容无法确保完全正确  
